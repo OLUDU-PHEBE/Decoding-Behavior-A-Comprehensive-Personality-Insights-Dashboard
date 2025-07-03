@@ -121,23 +121,23 @@ This comprehensive Power BI dashboard provides profound insights into the behavi
 
 ## Key Recommendations:
 
-* Tailored Communication: Recognize that communication strategies (e.g., social media campaigns, event invitations) may need to be tailored to resonate with different personality types, considering their varying social and online habits.
+* **Tailored Communication:** Recognize that communication strategies (e.g., social media campaigns, event invitations) may need to be tailored to resonate with different personality types, considering their varying social and online habits.
 
-* Support for Stage Fear: For Introverts, consider providing resources or training to manage stage fear, potentially through smaller group settings or preparatory exercises.
+* **Support for Stage Fear:** For Introverts, consider providing resources or training to manage stage fear, potentially through smaller group settings or preparatory exercises.
 
-* Understanding Energy Dynamics: In professional or social settings, acknowledge that Introverts may require more downtime after social interactions to recharge, fostering environments that respect these energy needs.
+* **Understanding Energy Dynamics:** In professional or social settings, acknowledge that Introverts may require more downtime after social interactions to recharge, fostering environments that respect these energy needs.
 
-* Leverage Strengths: Encourage Extroverts in roles requiring broad networking and frequent social interaction, while valuing Introverts for their deeper connections and thoughtful contributions.
+* **Leverage Strengths**: Encourage Extroverts in roles requiring broad networking and frequent social interaction, while valuing Introverts for their deeper connections and thoughtful contributions.
 
-* Personal Development Programs: Design personalized development programs that cater to the unique needs and strengths of each personality type, whether it's enhancing social skills for Introverts or encouraging reflection for Extroverts.
+* **Personal Development Programs:** Design personalized development programs that cater to the unique needs and strengths of each personality type, whether it's enhancing social skills for Introverts or encouraging reflection for Extroverts.
 
-* Future Enhancements
+* **Future Enhancements**
 Integrate additional personality dimensions (e.g., Big Five traits) for a more granular analysis.
 
-* Incorporate demographic data to explore how personality traits intersect with age, gender, or cultural backgrounds.
+* **Incorporate demographic data** to explore how personality traits intersect with age, gender, or cultural backgrounds.
 
-* Develop predictive models to forecast behavioral tendencies based on personality scores.
+* **Develop predictive models** to forecast behavioral tendencies based on personality scores.
 
-* Gather qualitative data (e.g., survey responses on motivations) to add richer context to the quantitative findings.
+* **Gather qualitative data** (e.g., survey responses on motivations) to add richer context to the quantitative findings.
 
 **This project demonstrates strong capabilities in data analysis, Power BI dashboard development, and the ability to extract meaningful, actionable insights from complex behavioral datasets.**
