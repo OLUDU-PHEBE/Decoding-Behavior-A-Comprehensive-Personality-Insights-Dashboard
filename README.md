@@ -101,10 +101,10 @@ The Power BI dashboard offers a dynamic and interactive platform to explore the 
 **7. The Network Effect: Understanding Friendship Scale**
 ![B8](https://github.com/user-attachments/assets/d57b1fbf-a5db-45df-a466-d7013fd5ba02)
 
-*Study's Average Social Reach: The overall average friend circle size is 6.10.
-*Extroverted Connections: Broader Social Circles: Extroverts tend to have larger friendship networks, with an average friend circle size of 8.93.
-*Introverted Bonds: Deeper, Smaller Circles: Introverts typically maintain smaller, more intimate friendship circles, with an average size of 3.11.
-*Network Breadth: Visualizations confirm that Extroverts generally have a wider social reach.
+* Study's Average Social Reach: The overall average friend circle size is 6.10.
+* Extroverted Connections: Broader Social Circles: Extroverts tend to have larger friendship networks, with an average friend circle size of 8.93.
+* Introverted Bonds: Deeper, Smaller Circles: Introverts typically maintain smaller, more intimate friendship circles, with an average size of 3.11.
+* Network Breadth: Visualizations confirm that Extroverts generally have a wider social reach.
 
 
 **8. Voice & Visibility: Analyzing Social Media Posting Habits**
